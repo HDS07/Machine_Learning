@@ -1,2 +1,1 @@
-# Deep-learning-
-This repo. contains deep-learning practice..
+This repository contains the Machine learining model code and its datasets
