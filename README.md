@@ -1,1 +1,1 @@
-This repository contains the Machine learining model code and its datasets
+This repository contains the Machine learining model code and their datasets
